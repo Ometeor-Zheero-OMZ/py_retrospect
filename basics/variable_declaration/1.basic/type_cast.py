@@ -1,10 +1,9 @@
-num = 23
 name = '23'
 
-other_num = int(name)
+num = int(name)
 
 # 23 <class 'int'>
-print(other_num, type(other_num))
+print(num, type(num))
 
 #####################################################################
 #                                                                   #
