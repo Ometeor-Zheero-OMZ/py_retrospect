@@ -1,0 +1,3 @@
+2024-12-23 01:26:08,391 - user_creation - DEBUG - Called with arguments: (1, 'Alice', 25, 'female'), {}
+2024-12-23 01:26:08,391 - user_creation - DEBUG - Result: {'id': 1, 'name': 'Alice', 'age': 25, 'gender': 'female'}
+2024-12-23 01:26:08,391 - user_creation - INFO - User created: {'id': 1, 'name': 'Alice', 'age': 25, 'gender': 'female'}
