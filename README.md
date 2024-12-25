@@ -4,6 +4,16 @@
 
 基本的に思い出すために書いたものです。
 
+## 目次
+
+- 基本
+- データ構造
+- 制御フロー
+- モジュールとパッケージ
+- クラス
+- アルゴリズム
+- データ構造
+
 ### 基本
 
 - [変数](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/1.variable_declaration/1.basic)
@@ -66,3 +76,7 @@
 - [クラス変数](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/5.class/09.field)
 - [メソッド](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/5.class/10.method)
 - [特殊メソッド](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/5.class/11.magic_method)
+
+### アルゴリズム
+
+### データ構造
