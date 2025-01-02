@@ -11,8 +11,9 @@
 - 制御フロー
 - モジュールとパッケージ
 - クラス
-- アルゴリズム
-- データ構造
+- アルゴリズムとデータ構造
+
+***
 
 ### 基本
 
@@ -23,6 +24,8 @@
 - [スライス](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/1.variable_declaration/5.slice)
 - [文字列のメソッド](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/1.variable_declaration/6.str_method)
 - [f-string](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/1.variable_declaration/7.str_format)
+
+***
 
 ### データ構造
 
@@ -36,6 +39,8 @@
 - [辞書のコピー](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/2.data_structure/8.dict_copy)
 - [集合](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/2.data_structure/9.set)
 - [集合のメソッド](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/2.data_structure/10.set_method)
+
+***
 
 ### 制御フロー
 
@@ -55,6 +60,8 @@
 - [名前空間とスコープ](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/3.control_flow/14.namespace)
 - [例外処理](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/3.control_flow/15.exception)
 
+***
+
 ### モジュールとパッケージ
 
 - [コマンドライン引数](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/4.module_and_package/01.command_line)
@@ -62,6 +69,8 @@
 - [絶対パスと相対パス](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/4.module_and_package/03.absolute_and_relative)
 - [組み込み関数](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/4.module_and_package/04.built_in)
 - [name と main](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/4.module_and_package/05.__main__)
+
+***
 
 ### クラス
 
@@ -77,6 +86,9 @@
 - [メソッド](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/5.class/10.method)
 - [特殊メソッド](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/basics/5.class/11.magic_method)
 
-### アルゴリズム
+### 
 
-### データ構造
+### アルゴリズムとデータ構造
+- [ソート](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/algorithm/01.sort)
+- [バイナリサーチ](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/algorithm/02.search)
+- [リンクリスト](https://github.com/Ometeor-Zheero-OMZ/py_retrospect/tree/main/algorithm/03.linked_list)
